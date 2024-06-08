@@ -1,3 +1,6 @@
-# Social Links
+a simple social links tree
 
-A simple social links tree using React, TailwindCSS and Vite.
+**tech stack**
+- [react](https://github.com/tailwindlabs/tailwindcss)
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+- [vite](https://github.com/vitejs/vite)
