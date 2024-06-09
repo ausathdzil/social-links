@@ -1,4 +1,4 @@
-a simple social linktree.
+a simple social links for your profile.
 
 **tech stack**
 - [react](https://github.com/tailwindlabs/tailwindcss)
